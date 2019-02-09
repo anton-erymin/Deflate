@@ -1,0 +1,28 @@
+BT
+/Artifact <</Attached [/Top ]/Type /Pagination /BBoxin18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+/RelativeColorimetric ri
+/TT0 1 Tf
+9 0 0 9 18 780.1027 Tm
+(file:///E|/Projects/Windows%20Applications/Deflate/Deflate/bin/Release/T\ext%20Document.txt)Tj
+EMC 
+ET
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/TT0 1 Tf
+14 0 0 14 10 734.8709 Tm
+(Hello World!!!)Tj
+ET
+EMC 
+Q
+BT
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBoxin18 5 582 14 ]>>BDC 
+/TT0 1 Tf
+9 0 0 9 18 7.1027 Tm
+(file:///E|/Projects/Windows%20Applications/Deflate/Deflate/bin/Release/T\ext%20Document.txt [08.09.2010 22:07:00])Tj
+EMC 
+ET

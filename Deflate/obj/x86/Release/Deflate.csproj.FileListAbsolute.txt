@@ -1,0 +1,5 @@
+E:\Projects\Windows Applications\Deflate\Deflate\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Projects\Windows Applications\Deflate\Deflate\bin\Release\Deflate.exe
+E:\Projects\Windows Applications\Deflate\Deflate\bin\Release\Deflate.pdb
+E:\Projects\Windows Applications\Deflate\Deflate\obj\x86\Release\Deflate.exe
+E:\Projects\Windows Applications\Deflate\Deflate\obj\x86\Release\Deflate.pdb
